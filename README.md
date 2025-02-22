@@ -1,2 +1,6 @@
-# TabbarWithSideBar
-Tabbar with sidebar in SwiftUI
+# Customize Tabbar with sidemenu
+
+We can implement both Tabbar and sidemenu in swiftUI. 
+#SwiftUI
+
+
