@@ -1,5 +1,11 @@
 # Customize Tabbar with sidemenu
 
-We can implement both Tabbar and sidemenu in swiftUI.
+Tabbar with sidemenu in swiftUI.
 
 
+[![SwiftUI](https://img.shields.io/badge/SwiftUI-3,4-orange?style=for-the-badge)]()
+
+
+
+## License
+For open source projects, say how it is licensed.
